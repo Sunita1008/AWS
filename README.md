@@ -228,144 +228,75 @@ AWS DynamoDB is a serverless nosql database
 Select one:
 True 
 False
-Feedback
 The correct answer is 'True'.
+
 Question 2
-
-1.00/1.00
-Not flagged
-Question text
 Which of the following database is keyvalue pair or document database.?
-
 Amazon DynamoDB
-
 Amazon Neptune
-
 Amazon RDS
-
 Amazon Redshift
-Feedback
 The correct answer is: Amazon DynamoDB
+
 Question 3
-
-1.00/1.00
-Not flagged
-Question text
 Which CloudWatch component allows you to create and manage custom alarms?
-
 CloudWatch Events
-
 CloudWatch Alarms
-
 CloudWatch Logs
-
 CloudWatch Metrics
-Feedback
 The correct answer is: CloudWatch Alarms
+
 Question 4
-
-1.00/1.00
-Not flagged
-Question text
 Which of the following database service is postgresql and mysql compatible database.
-
 Amazon Neptune
-
 Amazon RDS
-
 Amazon Redshift
-
 Amazon Aurora
-Feedback
 The correct answer is: Amazon Aurora
+
 Question 5
-
-0.00/1.00
-Not flagged
-Question text
 Monitoring the resources helps in ___________
-
 identify the unusual activities
-
 Record all API requests
-
 optimize usage
-
 Filtering requests
-Feedback
 The correct answers are: optimize usage, identify the unusual activities
-Question 6
 
-0.00/1.00
-Not flagged
-Question text
+Question 6
 AutoScaling increases/decreases the capacity of an EC2 instance automatically.(True/False)
 Select one:
 True
 False 
-Feedback
 The correct answer is 'True'.
+
 Question 7
-
-1.00/1.00
-Not flagged
-Question text
 Which of the following is NOT a benefit of using Amazon CloudWatch?
-
 Alarm notifications
-
 Customizable dashboards
-
 Automated resource provisioning
-
 Real-time monitoring
-Feedback
 The correct answer is: Automated resource provisioning
+
 Question 8
-
-1.00/1.00
-Not flagged
-Question text
 Which of the following entity used for temporary access to resources.
-
 Role
-
 Policy
-
 Group
-
 User
-Feedback
 The correct answer is: Role
+
 Question 9
-
-1.00/1.00
-Not flagged
-Question text
 Which of the following service is used for monitoring resources in AWS.
-
 Amazon CloutTrail
-
 Amazon CloudWatch
-
 Amazon EventBridge
-
 Amazon Cognito
-Feedback
 The correct answer is: Amazon CloudWatch
+
 Question 10
-
-1.00/1.00
-Not flagged
-Question text
 How manual scaling is done in EC2 auto scaling
-
 Adjusting the load
-
 Adjusting Desired capacity
-
 Adjusting Min size
-
 Adjusting Max size
-Feedback
 The correct answer is: Adjusting Desired capacity
